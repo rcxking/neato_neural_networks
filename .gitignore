@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# Ignore ROS workspace /devel and /build folders:
+neural_network_workspace/build/*
+neural_network_workspace/devel/* 
